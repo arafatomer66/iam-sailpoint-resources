@@ -46,3 +46,6 @@ They can now manage data access, secure it in the same way, and manage Identity 
 SailPoint IIQ is a computer software solution for identity management. It allows you to automate access approval processes and allows users to request access to resources with a touchpoint. IIQ SailPoint will allow you to manage user access to applications and data across IT resources.
 
 It will also help you ensure compliance with clear visibility into your organization’s data and access requests.
+
+Link for the identityiq file
+https://drive.google.com/file/d/1nSMhj6akkg7s9kuVO6YhQzNdOsgy9nk9/view?usp=sharing
