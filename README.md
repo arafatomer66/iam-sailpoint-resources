@@ -1,3 +1,5 @@
+# Sailpoint
+
 SailPoint is leader in identity security for the cloud enterprise. More than 500 of the world’s largest organizations trust in SailPoint to secure their modern enterprise against cyber threats.
 
 SailPoint enables its customers to stay ahead of the evolving security challenges by providing open Identity Security Solutions that manage and control access to all applications and data across today’s hybrid IT environment.
